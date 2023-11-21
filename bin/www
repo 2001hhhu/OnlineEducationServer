@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // 导入 db 函数
-const db = reuqire('../db/db')
+const db = require('../db/db')
 
 // 调用db函数
 db(() => {
